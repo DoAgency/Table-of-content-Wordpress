@@ -1,0 +1,51 @@
+/*INDICE*/
+/*Header*/
+.indiceDoa .headingDoaToc {  
+	padding: 20px;
+    background: #041836;
+	color: white;
+	border-radius: 20px 20px 0px 0px;
+	font-size: 18px;
+    font-weight: 700;
+}
+/*Contenuto voci indice*/
+.indiceDoa .contenutoDoaToc {
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 0px 0px 20px 20px;
+	font-size: 15px;
+    font-weight: 600;
+}
+/*Voci indice*/
+.indiceDoa .riga {
+	margin-bottoM: 15px;
+	display: flex !important;
+}
+.indiceDoa .riga a {
+	color: black;
+}
+.indiceDoa .riga .numero {
+	margin-right: 10px;
+}
+
+
+
+
+/*H*/
+.indiceDoa .doa-H2 {
+}
+.indiceDoa .doa-H3 {
+	margin-left: 15px;
+}
+.indiceDoa .doa-H4 {
+	margin-left: 30px;
+}
+
+
+
+
+/*TITOLI NEL POST*/
+/**/
+.titoloDoaToc {
+	display: flex;
+}
